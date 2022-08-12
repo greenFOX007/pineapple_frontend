@@ -1,0 +1,9 @@
+.card_zone{
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-start;
+    width: 700px;
+    height: 240px;
+    background-color: wheat;
+    border: 1px solid black;
+}
